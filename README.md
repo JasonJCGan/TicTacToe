@@ -8,7 +8,9 @@ Start by running file.
 Positions of tiles are as follows:
 
 1|2|3\
-4+5+6\
+-----\
+4|5|6\
+-----\
 7|8|9
 
 :)
